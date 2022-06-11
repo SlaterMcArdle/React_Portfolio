@@ -12,10 +12,10 @@ function Projects() {
                         <Card.Title>Encanto Flower Delivery</Card.Title>
                         <Row xs={1} sm={2}>
                             <Col>
-                                <Button className="portfolio-btn" href="#" target="blank" size="lg">Github</Button>
+                                <Button className="portfolio-btn" href="https://github.com/encantoflowers/encanto-flowers" target="blank" size="lg">Github</Button>
                             </Col>
                             <Col>
-                                <Button className="portfolio-btn" href="#" target="blank" size="lg">Live Site</Button>
+                                <Button className="portfolio-btn" href="https://encanto-flowers.herokuapp.com/" target="blank" size="lg">Live Site</Button>
                             </Col>
                         </Row>
                     </Card.Body>
@@ -28,10 +28,10 @@ function Projects() {
                         <Card.Title>Programeter</Card.Title>
                         <Row xs={1} sm={2}>
                             <Col>
-                                <Button className="portfolio-btn" href="#" target="blank" size="lg">Github</Button>
+                                <Button className="portfolio-btn" href="https://github.com/Programeter/Programeter" target="blank" size="lg">Github</Button>
                             </Col>
                             <Col>
-                                <Button className="portfolio-btn" href="#" target="blank" size="lg">Live Site</Button>
+                                <Button className="portfolio-btn" href="https://glacial-garden-96019.herokuapp.com/login" target="blank" size="lg">Live Site</Button>
                             </Col>
                         </Row>
                     </Card.Body>
@@ -44,10 +44,10 @@ function Projects() {
                         <Card.Title>Restroom Hunters</Card.Title>
                         <Row xs={1} sm={2}>
                             <Col>
-                                <Button className="portfolio-btn" href="#" target="blank" size="lg">Github</Button>
+                                <Button className="portfolio-btn" href="https://github.com/therestroomhunters/public-restroom-search" target="blank" size="lg">Github</Button>
                             </Col>
                             <Col>
-                                <Button className="portfolio-btn" href="#" target="blank" size="lg">Live Site</Button>
+                                <Button className="portfolio-btn" href="https://therestroomhunters.github.io/public-restroom-search/" target="blank" size="lg">Live Site</Button>
                             </Col>
                         </Row>
                     </Card.Body>
@@ -60,10 +60,7 @@ function Projects() {
                         <Card.Title>Note Taker</Card.Title>
                         <Row xs={1} sm={2}>
                             <Col>
-                                <Button className="portfolio-btn" href="#" target="blank" size="lg">Github</Button>
-                            </Col>
-                            <Col>
-                                <Button className="portfolio-btn" href="#" target="blank" size="lg">Live Site</Button>
+                                <Button className="portfolio-btn" href="https://github.com/SlaterMcArdle/Note_Taker" target="blank" size="lg">Github</Button>
                             </Col>
                         </Row>
                     </Card.Body>
@@ -76,10 +73,10 @@ function Projects() {
                         <Card.Title>Weather Dashboard</Card.Title>
                         <Row xs={1} sm={2}>
                             <Col>
-                                <Button className="portfolio-btn" href="#" target="blank" size="lg">Github</Button>
+                                <Button className="portfolio-btn" href="https://github.com/SlaterMcArdle/Weather_Dashboard" target="blank" size="lg">Github</Button>
                             </Col>
                             <Col>
-                                <Button className="portfolio-btn" href="#" target="blank" size="lg">Live Site</Button>
+                                <Button className="portfolio-btn" href="https://slatermcardle.github.io/Weather_Dashboard/" target="blank" size="lg">Live Site</Button>
                             </Col>
                         </Row>
                     </Card.Body>
@@ -92,10 +89,10 @@ function Projects() {
                         <Card.Title>Work Day Scheduler</Card.Title>
                         <Row xs={1} sm={2}>
                             <Col>
-                                <Button className="portfolio-btn" href="#" target="blank" size="lg">Github</Button>
+                                <Button className="portfolio-btn" href="https://github.com/SlaterMcArdle/Work_Day_Scheduler" target="blank" size="lg">Github</Button>
                             </Col>
                             <Col>
-                                <Button className="portfolio-btn" href="#" target="blank" size="lg">Live Site</Button>
+                                <Button className="portfolio-btn" href="https://slatermcardle.github.io/Work_Day_Scheduler/" target="blank" size="lg">Live Site</Button>
                             </Col>
                         </Row>
                     </Card.Body>

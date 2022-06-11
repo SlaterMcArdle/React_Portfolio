@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/github.io/React_Portfolio/static/css/main.f73a9c0d.css",
-    "main.js": "/github.io/React_Portfolio/static/js/main.2249128b.js",
-    "static/js/787.1ed0c42c.chunk.js": "/github.io/React_Portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/encanto-flowers.png": "/github.io/React_Portfolio/static/media/encanto-flowers.6df3f28b8200d006f9e7.png",
-    "static/media/restroom_hunters.png": "/github.io/React_Portfolio/static/media/restroom_hunters.10fae8d184bba8eae618.png",
-    "static/media/me.jpg": "/github.io/React_Portfolio/static/media/me.a2ae6dd11ab7859abc38.jpg",
-    "static/media/weather_dashboard.png": "/github.io/React_Portfolio/static/media/weather_dashboard.22929ef07d41c3dd0412.png",
-    "static/media/programeter.png": "/github.io/React_Portfolio/static/media/programeter.a823fe7108a4aa1aa60f.png",
-    "static/media/workday_scheduler.png": "/github.io/React_Portfolio/static/media/workday_scheduler.d001d46efefed23ee474.png",
-    "static/media/note_taker.png": "/github.io/React_Portfolio/static/media/note_taker.ee9911591ea599a50a97.png",
-    "index.html": "/github.io/React_Portfolio/index.html",
-    "main.f73a9c0d.css.map": "/github.io/React_Portfolio/static/css/main.f73a9c0d.css.map",
-    "main.2249128b.js.map": "/github.io/React_Portfolio/static/js/main.2249128b.js.map",
-    "787.1ed0c42c.chunk.js.map": "/github.io/React_Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/React_Portfolio/static/css/main.f73a9c0d.css",
+    "main.js": "/React_Portfolio/static/js/main.171f036d.js",
+    "static/js/787.1ed0c42c.chunk.js": "/React_Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/encanto-flowers.png": "/React_Portfolio/static/media/encanto-flowers.6df3f28b8200d006f9e7.png",
+    "static/media/restroom_hunters.png": "/React_Portfolio/static/media/restroom_hunters.10fae8d184bba8eae618.png",
+    "static/media/me.jpg": "/React_Portfolio/static/media/me.a2ae6dd11ab7859abc38.jpg",
+    "static/media/weather_dashboard.png": "/React_Portfolio/static/media/weather_dashboard.22929ef07d41c3dd0412.png",
+    "static/media/programeter.png": "/React_Portfolio/static/media/programeter.a823fe7108a4aa1aa60f.png",
+    "static/media/workday_scheduler.png": "/React_Portfolio/static/media/workday_scheduler.d001d46efefed23ee474.png",
+    "static/media/note_taker.png": "/React_Portfolio/static/media/note_taker.ee9911591ea599a50a97.png",
+    "index.html": "/React_Portfolio/index.html",
+    "main.f73a9c0d.css.map": "/React_Portfolio/static/css/main.f73a9c0d.css.map",
+    "main.171f036d.js.map": "/React_Portfolio/static/js/main.171f036d.js.map",
+    "787.1ed0c42c.chunk.js.map": "/React_Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f73a9c0d.css",
-    "static/js/main.2249128b.js"
+    "static/js/main.171f036d.js"
   ]
 }

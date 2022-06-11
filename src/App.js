@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import SlaterNav from './components/Navbar';
 import AboutMe from './components/AboutMe';

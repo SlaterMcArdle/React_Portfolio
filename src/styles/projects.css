@@ -1,0 +1,9 @@
+.card {
+    background-color: rgb(52, 58, 64) !important;
+    color: white;
+}
+
+.portfolio-btn {
+    background-color: rgb(108, 117, 125) !important;
+    border-color: rgb(108, 117, 125) !important;
+}

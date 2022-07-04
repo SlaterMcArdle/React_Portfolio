@@ -1,11 +1,22 @@
 import { React } from 'react';
-import { Card, Button, Row, Col } from 'react-bootstrap';
+import { Row, Col } from 'react-bootstrap';
+import ProjectCard from './ProjectCard';
 import '../styles/projects.css'
+import projects from '../resources/projects';
 
 function Projects() {
     return (
         <Row id="project-section" xs={1} md={2} xl={3} className="g-4 p-3">
-            <Col>
+            {projects.map((project) => {
+                return (<Col>
+                    <ProjectCard 
+                        image={project.image}
+                        title={project.title}
+                        github={project.github}
+                        live={project.live}/>
+                </Col>)
+            })}
+            {/* <Col>
                 <Card text="light">
                     <Card.Img variant="top" src={require("../images/encanto-flowers.png")} alt="Encanto Flower Delivery"/>
                     <Card.Body>
@@ -63,7 +74,7 @@ function Projects() {
                         <Card.Link href="https://slatermcardle.github.io/Work_Day_Scheduler/" target="blank">Live Site</Card.Link>
                     </Card.Body>
                 </Card>
-            </Col>
+            </Col> */}
         </Row>
     )
 }

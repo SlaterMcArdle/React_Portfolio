@@ -12,7 +12,7 @@ function App() {
       <h2>Projects</h2>
       <Projects />
       <Contact />
-      <a href="https://www.freepik.com/vectors/blue-geometric">Blue geometric vector created by Harryarts - www.freepik.com</a>
+      <a href="https://www.freepik.com/vectors/lines-stripes">Lines stripes vector created by vector_corp - www.freepik.com</a>
     </div>
   );
 }

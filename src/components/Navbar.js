@@ -12,7 +12,7 @@ function SlaterNav() {
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="me-auto">
                         <Nav.Link href="#about-me-section">About Me</Nav.Link>
-                        <Nav.Link href="#project-sectionnpm ">Projects</Nav.Link>
+                        <Nav.Link href="#project-section">Projects</Nav.Link>
                         <Nav.Link href="#contact-section">Contact</Nav.Link>
                     </Nav>
                 </Navbar.Collapse>

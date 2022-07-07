@@ -5,7 +5,7 @@ import '../styles/aboutMe.css'
 
 function AboutMe() {
     return (
-        <Jumbotron id="about-me-section" className="jumbotron justify-content-around bg-secondary rounded d-flex flex-wrap align-items-center m-3">
+        <Jumbotron id="about-me-section" className="jumbotron justify-content-around d-flex flex-wrap align-items-center ">
             <Row>
                 <Container className="col-xs-12 col-sm-9 col-md-6 col-lg-4 col-xl-3 d-inline-block align-middle p-5">
                     <div id="about-me-image-container">
@@ -18,10 +18,10 @@ function AboutMe() {
                         <div id="about-me-text-container">
                             <p>
                                 MERN stack developer leveraging a diverse background to create a seamless, functional user interface. 
-                                Trained in physics and working in a wide variety of industries from automation to maritime to retail, I’ve learned how to work with the user to develop a robust, intuitive product. 
-                                I assisted in developing a django web app to control multi-channel fluid dispensing. 
+                                Trained in physics and working in a wide variety of industries from automation to maritime to retail, I’ve learned how to work with the user to develop a robust, intuitive product.
                                 My team of two and I developed a frontend web application that guides users to the nearest available restroom. 
-                                Most recently I led a team of three developing a full stack web app providing a professional matching service for programmers. 
+                                I led a team of three developing a full stack web app providing a professional matching service for programmers. 
+                                Most recently I worked with two others developing an e-commerce site for a local flower delivery service.
                                 I’m looking to utilize my multifaceted skill set to provide users an intuitive and reliable web experience. 
                             </p>
                         </div>

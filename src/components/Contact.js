@@ -1,6 +1,7 @@
 import { React } from 'react';
 import{ Button, Container, Row, Col } from 'react-bootstrap';
 import { Envelope } from 'react-bootstrap-icons';
+import '../styles/contact.css';
 
 function Contact() {
     return (
@@ -10,13 +11,13 @@ function Contact() {
                 <hr/>
                 <Row>
                     <Col>
-                        <Button variant="secondary" href="https://github.com/WindWalker-92" className="w-100"><img src={require("../images/GitHub-Mark-32px.png")} alt="github logo" wdth="20px" height="20px" style={{paddingRight: 5}}/>Github</Button>
+                        <Button variant="secondary" href="https://github.com/WindWalker-92" className="contact-btn w-100"><img src={require("../images/GitHub-Mark-32px.png")} alt="github logo" wdth="20px" height="20px" style={{paddingRight: 5}}/>Github</Button>
                     </Col>
                     <Col>
-                        <Button variant="secondary" href="https://www.linkedin.com/in/slatermcardle/" className="w-100"><img src={require("../images/LI-In-Bug.png")} alt="linkedin logo" width="24px" height="20px" style={{paddingRight: 2}}></img>Linkedin</Button>
+                        <Button variant="secondary" href="https://www.linkedin.com/in/slatermcardle/" className="contact-btn w-100"><img src={require("../images/LI-In-Bug.png")} alt="linkedin logo" width="24px" height="20px" style={{paddingRight: 2}}></img>Linkedin</Button>
                     </Col>
                     <Col>
-                        <Button variant="secondary" href="mailto:slater.mcardle@outlook.com" className="w-100"><Envelope width="20px" height="20px" style={{ paddingRight: 5, paddingBottom: 2}}/>Email Me</Button>
+                        <Button variant="secondary" href="mailto:slater.mcardle@outlook.com" className="contact-btn w-100"><Envelope width="20px" height="20px" style={{ paddingRight: 5, paddingBottom: 2}}/>Email Me</Button>
                     </Col>
                 </Row>
                 

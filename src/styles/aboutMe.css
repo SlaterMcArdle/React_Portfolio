@@ -1,3 +1,7 @@
 .jumbotron {
-    background-color: rgb(60, 63, 88)!;
+    background-image: url('../resources/1082.jpg');
+    background-size: cover;
+    color: white;
+    min-height: 95vh;
+    margin-bottom: 5vh;
   }

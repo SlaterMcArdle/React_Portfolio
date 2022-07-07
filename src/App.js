@@ -9,8 +9,10 @@ function App() {
     <div className="App">
       <SlaterNav />
       <AboutMe />
+      <h2>Projects</h2>
       <Projects />
       <Contact />
+      <a href="https://www.freepik.com/vectors/blue-geometric">Blue geometric vector created by Harryarts - www.freepik.com</a>
     </div>
   );
 }
